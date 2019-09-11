@@ -41,6 +41,8 @@
 	<string></string>
 	<key>Runtime url</key>
 	<string>$(RUNTIME_URL)</string>
+	<key>CodePushKey</key>
+	<string></string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>glyphicons-halflings-regular.ttf</string>
