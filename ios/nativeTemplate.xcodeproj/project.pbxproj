@@ -401,7 +401,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mendix.nativetemplate;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gmail.stmarkidis.atlasui;
 				PRODUCT_NAME = nativeTemplate;
 				SWIFT_INCLUDE_PATHS = "$(inherited) ${SRCROOT}/MendixNative";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
@@ -473,7 +473,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mendix.nativetemplate;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gmail.stmarkidis.atlasui;
 				PRODUCT_NAME = nativeTemplate;
 				SWIFT_INCLUDE_PATHS = "$(inherited) ${PROJECT_DIR} ${SRCROOT}/MendixNative";
 				SWIFT_OBJC_BRIDGING_HEADER = "";
