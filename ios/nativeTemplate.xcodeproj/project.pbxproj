@@ -10,12 +10,8 @@
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		1A0B83DB22E09B2600EA1E51 /* Bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1A0B83DA22E09B2500EA1E51 /* Bundle */; };
-		1A6E610422E73F1C009AF54B /* i386.swiftmodule in Resources */ = {isa = PBXBuildFile; fileRef = 1A6E60F922E73F1C009AF54B /* i386.swiftmodule */; };
-		1A6E610522E73F1C009AF54B /* x86_64.swiftdoc in Resources */ = {isa = PBXBuildFile; fileRef = 1A6E60FA22E73F1C009AF54B /* x86_64.swiftdoc */; };
 		1A6E610622E73F1C009AF54B /* arm64.swiftmodule in Resources */ = {isa = PBXBuildFile; fileRef = 1A6E60FB22E73F1C009AF54B /* arm64.swiftmodule */; };
-		1A6E610722E73F1C009AF54B /* x86_64.swiftmodule in Resources */ = {isa = PBXBuildFile; fileRef = 1A6E60FC22E73F1C009AF54B /* x86_64.swiftmodule */; };
 		1A6E610822E73F1C009AF54B /* arm.swiftdoc in Resources */ = {isa = PBXBuildFile; fileRef = 1A6E60FD22E73F1C009AF54B /* arm.swiftdoc */; };
-		1A6E610922E73F1C009AF54B /* i386.swiftdoc in Resources */ = {isa = PBXBuildFile; fileRef = 1A6E60FE22E73F1C009AF54B /* i386.swiftdoc */; };
 		1A6E610A22E73F1C009AF54B /* arm.swiftmodule in Resources */ = {isa = PBXBuildFile; fileRef = 1A6E60FF22E73F1C009AF54B /* arm.swiftmodule */; };
 		1A6E610B22E73F1C009AF54B /* armv7.swiftdoc in Resources */ = {isa = PBXBuildFile; fileRef = 1A6E610022E73F1C009AF54B /* armv7.swiftdoc */; };
 		1A6E610C22E73F1C009AF54B /* arm64.swiftdoc in Resources */ = {isa = PBXBuildFile; fileRef = 1A6E610122E73F1C009AF54B /* arm64.swiftdoc */; };
@@ -33,12 +29,8 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = nativeTemplate/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = nativeTemplate/Info.plist; sourceTree = "<group>"; };
 		1A0B83DA22E09B2500EA1E51 /* Bundle */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Bundle; sourceTree = "<group>"; };
-		1A6E60F922E73F1C009AF54B /* i386.swiftmodule */ = {isa = PBXFileReference; lastKnownFileType = file; path = i386.swiftmodule; sourceTree = "<group>"; };
-		1A6E60FA22E73F1C009AF54B /* x86_64.swiftdoc */ = {isa = PBXFileReference; lastKnownFileType = file; path = x86_64.swiftdoc; sourceTree = "<group>"; };
 		1A6E60FB22E73F1C009AF54B /* arm64.swiftmodule */ = {isa = PBXFileReference; lastKnownFileType = file; path = arm64.swiftmodule; sourceTree = "<group>"; };
-		1A6E60FC22E73F1C009AF54B /* x86_64.swiftmodule */ = {isa = PBXFileReference; lastKnownFileType = file; path = x86_64.swiftmodule; sourceTree = "<group>"; };
 		1A6E60FD22E73F1C009AF54B /* arm.swiftdoc */ = {isa = PBXFileReference; lastKnownFileType = file; path = arm.swiftdoc; sourceTree = "<group>"; };
-		1A6E60FE22E73F1C009AF54B /* i386.swiftdoc */ = {isa = PBXFileReference; lastKnownFileType = file; path = i386.swiftdoc; sourceTree = "<group>"; };
 		1A6E60FF22E73F1C009AF54B /* arm.swiftmodule */ = {isa = PBXFileReference; lastKnownFileType = file; path = arm.swiftmodule; sourceTree = "<group>"; };
 		1A6E610022E73F1C009AF54B /* armv7.swiftdoc */ = {isa = PBXFileReference; lastKnownFileType = file; path = armv7.swiftdoc; sourceTree = "<group>"; };
 		1A6E610122E73F1C009AF54B /* arm64.swiftdoc */ = {isa = PBXFileReference; lastKnownFileType = file; path = arm64.swiftdoc; sourceTree = "<group>"; };
@@ -84,12 +76,8 @@
 		1A6E60F822E73F1C009AF54B /* MendixNative.swiftmodule */ = {
 			isa = PBXGroup;
 			children = (
-				1A6E60F922E73F1C009AF54B /* i386.swiftmodule */,
-				1A6E60FA22E73F1C009AF54B /* x86_64.swiftdoc */,
 				1A6E60FB22E73F1C009AF54B /* arm64.swiftmodule */,
-				1A6E60FC22E73F1C009AF54B /* x86_64.swiftmodule */,
 				1A6E60FD22E73F1C009AF54B /* arm.swiftdoc */,
-				1A6E60FE22E73F1C009AF54B /* i386.swiftdoc */,
 				1A6E60FF22E73F1C009AF54B /* arm.swiftmodule */,
 				1A6E610022E73F1C009AF54B /* armv7.swiftdoc */,
 				1A6E610122E73F1C009AF54B /* arm64.swiftdoc */,
@@ -237,14 +225,10 @@
 				1A0B83DB22E09B2600EA1E51 /* Bundle in Resources */,
 				1A6E610822E73F1C009AF54B /* arm.swiftdoc in Resources */,
 				1A6E610622E73F1C009AF54B /* arm64.swiftmodule in Resources */,
-				1A6E610722E73F1C009AF54B /* x86_64.swiftmodule in Resources */,
-				1A6E610522E73F1C009AF54B /* x86_64.swiftdoc in Resources */,
 				1A6E610C22E73F1C009AF54B /* arm64.swiftdoc in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-				1A6E610422E73F1C009AF54B /* i386.swiftmodule in Resources */,
 				1A6E610B22E73F1C009AF54B /* armv7.swiftdoc in Resources */,
-				1A6E610922E73F1C009AF54B /* i386.swiftdoc in Resources */,
 				EB55620C22E0755000E19C26 /* glyphicons-halflings-regular.ttf in Resources */,
 				1A6E610A22E73F1C009AF54B /* arm.swiftmodule in Resources */,
 				1A6E610D22E73F1C009AF54B /* armv7.swiftmodule in Resources */,
